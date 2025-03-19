@@ -2,7 +2,13 @@
 Chrome extension that reminds you to drink water.
 
 ## Getting Started
-Explain how to set it up
+- Navigate to the extension page
+- Toggle extension to “on”
+- You should see it in the top right next to the puzzle piece
+- Click the Bidoof
+- Set your notification interval
+- Enjoy!
+
 
 ## Running the Tests
 as needed

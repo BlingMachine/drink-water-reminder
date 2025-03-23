@@ -1,5 +1,5 @@
 # Drink-Water-Reminder
-Chrome extension that reminds you to stay hydrated.
+Chrome extension that reminds you to stay hydrated.\
 Set a custom time interval to recieve notifications.
 
 ## Getting Started
@@ -15,7 +15,7 @@ Set a custom time interval to recieve notifications.
 Bulma CSS framework
 
 ## Authors
-- Bryce Harger
+Bryce Harger
 
 ## License
 add license

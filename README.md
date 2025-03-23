@@ -1,37 +1,21 @@
 # Drink-Water-Reminder
-Chrome extension that reminds you to drink water.
+Chrome extension that reminds you to stay hydrated.
+Set a custom time interval to recieve notifications.
 
 ## Getting Started
-- Navigate to the extension page
-- Toggle extension to “on”
-- You should see it in the top right next to the puzzle piece
-- Click the Bidoof
-- Set your notification interval
-- Enjoy!
-
-
-## Running the Tests
-as needed
-
-## Deployment
-as needed
+1. Navigate to the puzzle icon near your search bar
+2. Click "Manage Extensions"
+3. Toggle extension to “on”
+4. You should see it in the top right next to the puzzle icon
+5. Click the Bidoof
+6. Set your notification interval
+7. Enjoy!
 
 ## Built With
-include any styling or anything used to help build project
+Bulma CSS framework
 
-## Contributing
-as needed
-
-## Versioning
-as needed
-
-## Authors 
-- Bryce Harger - Initial Work - something
+## Authors
+- Bryce Harger
 
 ## License
-This project is licensed by me
-
-## Acknowledgments
-- anyone that helped
-- inspo
-- etc
+add license

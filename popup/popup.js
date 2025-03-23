@@ -2,11 +2,14 @@
 // popup.js only runs when popup.html is opened
 // won't repeat unless popup is reopened
 
+<<<<<<< HEAD
 //Elements
 const inputIdElement = document.getElementById("num")
 const buttonIdElement = document.getElementById("btn")
 
 
+=======
+>>>>>>> f05394b (initial commit)
 // ensure user has notifications allowed--WORKS
 chrome.notifications.getPermissionLevel(function(level) {
     if (level === "granted") {

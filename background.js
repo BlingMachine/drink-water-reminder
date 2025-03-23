@@ -2,6 +2,7 @@
 // this will run in the background 
 // background scripts keep running even when the popup is closed
 
+<<<<<<< HEAD
 
 // // do i need these?
 // chrome.runtime.onInstalled.addListener(() => {
@@ -27,6 +28,8 @@
 //     periodInMinutes: 1,
 // });
 
+=======
+>>>>>>> f05394b (initial commit)
 // TAKE USER INPUT TO SET ALARM INTERVAL
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     if(request.action === "setAlarm") {
@@ -72,8 +75,12 @@ chrome.alarms.onAlarm.addListener((alarm) => {
     }
 });
 
+<<<<<<< HEAD
 
 // store that alarm interval in storage
 
 
 
+=======
+// store that alarm interval in storage
+>>>>>>> f05394b (initial commit)

@@ -1,6 +1,6 @@
 # Drink-Water-Reminder
 Chrome extension that reminds you to stay hydrated.\
-Set a custom time interval to recieve notifications.
+Set a custom time interval to receive notifications.
 
 ## Getting Started
 1. Navigate to the puzzle icon near your search bar

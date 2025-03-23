@@ -47,4 +47,4 @@ chrome.alarms.onAlarm.addListener((alarm) => {
     }
 });
 
-// store that alarm interval in storage
+// TODO: store that alarm interval in storage
